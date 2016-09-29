@@ -19,6 +19,8 @@ We never really thought to film any gameplay once we finished; we were too busy 
 
 [![youtube video thumbnail](/README/images/video-thumbnail.png)](https://youtu.be/pQvIsv2j6D8)
 
+*Note: Red and White are the AIs*
+
 Instructions
 ------------
 - Create a `build` directory and run `make` using the provided *Makefile*. This will generate a `kernel.img` file that contains the compiled game.
