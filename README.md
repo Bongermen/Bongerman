@@ -50,7 +50,7 @@ The controllers should be wired according to the following table:
 |CONTROLLER TWO LEFT|14|
 |CONTROLLER TWO RIGHT|15|
 
-The 5V pin and Ground pin on both controllers should be connected to their appropriate pins on the Raspberry Pi.
+The 5V pin and Ground pin on both controllers should be connected to their respective pins on the Raspberry Pi.
 
 Credits
 -------
