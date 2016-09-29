@@ -1,8 +1,5 @@
 Bongerman
 =========
-<TODO: screenshots + video>
-[![youtube video thumbnail](/README/images/video-thumbnail.png)](https://youtu.be/pQvIsv2j6D8)
-
 Bongerman is a bare-metal clone of the classic arcade game *Bomberman* designed to run on a Raspberry Pi. Developed in three weeks as part of a first year group project at Imperial College London.
 
 Features
@@ -15,6 +12,12 @@ Features
 * Atari 2600 joystick input
 * Sound using DMA
 * Randomly generated maps
+
+In Action
+------------
+We never really thought to film any gameplay once we finished; we were too busy playing. Thankfully Tom Bellingham was able to capture some footage before we dissassembled the hardware:
+
+[![youtube video thumbnail](/README/images/video-thumbnail.png)](https://youtu.be/pQvIsv2j6D8)
 
 Instructions
 ------------
