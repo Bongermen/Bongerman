@@ -34,11 +34,11 @@ Input
 -----
 Bongerman was developed using a Raspberry Pi model B. This is the associated GPIO pinout:
 
-<TODO: [image](https://www.raspberrypi.org/documentation/usage/gpio/)>
+![Raspberry Pi Model B Pinout](/README/images/pi-pinout.png)
 
 The game is designed to work using two Atari 2600 controllers with a classic 9-pin connector.
 
-<TODO: [pinout image](http://www.2600connection.com/faq/vcs_system/faq_controller_pinout.jpg)>
+![Atari 2600 Pinout](/README/images/atari-pinout.jpg)
 
 The controllers should be wired according to the following table:
 
