@@ -1,0 +1,47 @@
+#This the the canonical lab .gitignore file
+
+#ignore temp files
+*~
+
+#ignore sh files
+*.sh
+
+#ignore pdf files (just keep source files)
+*.pdf
+
+#ignore junk files from latex output
+*.out
+*.log
+*.aux
+*.dvi
+*.ps
+
+#ignore junk files from compiling C code
+*.o
+emulate
+assemble
+
+#ignore compiled kernel files
+kernel.img
+kernel.elf
+kernel.list
+
+#ignore junk files from compiling Haskell code
+*.hi
+
+#ignore junk files from compiling Java code
+*.class
+
+#ignore other junk files
+*.backup
+*.kate-swp
+*.swp
+*.snm
+*.vrb
+*.nav
+*.toc
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+lib*.a
