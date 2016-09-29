@@ -13,6 +13,7 @@ Features
 * Two enemy players controlled by artificial intelligence
 * Atari 2600 joystick input
 * Sound using DMA
+* Randomly generated maps
 
 Instructions
 ------------
