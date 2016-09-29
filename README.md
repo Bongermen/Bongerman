@@ -1,6 +1,7 @@
 Bongerman
 =========
 <TODO: screenshots + video>
+[![youtube video thumbnail](/README/images/video-thumbnail.png)](https://youtu.be/pQvIsv2j6D8)
 
 Bongerman is a bare-metal clone of the classic arcade game *Bomberman* designed to run on a Raspberry Pi. Developed in three weeks as part of a first year group project at Imperial College London.
 
