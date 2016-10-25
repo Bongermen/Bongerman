@@ -66,6 +66,7 @@ Credits
      - Github: [@neprune](https://github.com/neprune)
 * Rishabh Jain
      - Email: rishabh.jain15@imperial.ac.uk
+     - Github: [@wakeuprj] (https://github.com/wakeuprj)
 * Han Thi Nguyen
      - Email: han.nguyen15@imperial.ac.uk
      - Github: [@Sunakarus](https://github.com/Sunakarus)
