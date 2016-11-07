@@ -61,6 +61,7 @@ Credits
 -------
 * Daniel Dean
      - Email: daniel.dean15@imperial.ac.uk
+     - Github: [@danrobdean](https://github.com/danrobdean)
 * Virain (Nik) Gupta
      - Email: virain.gupta15@imperial.ac.uk
      - Github: [@neprune](https://github.com/neprune)
